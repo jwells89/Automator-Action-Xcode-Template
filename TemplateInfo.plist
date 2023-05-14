@@ -337,7 +337,7 @@
 		<key>SharedSettings</key>
 		<dict>
 			<key>INFOPLIST_FILE</key>
-			<string>___PACKAGENAMEASIDENTIFIER___/Info.plist</string>
+			<string>___PACKAGENAME___/Info.plist</string>
 		</dict>
 	</dict>
 	<key>Definitions</key>
