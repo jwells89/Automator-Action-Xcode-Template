@@ -1,4 +1,4 @@
-# Automator-Action-Xcode-Template
+# Automator Action Xcode Template
 
 This repo contains an updated version of the Automator Action template that used to ship with Xcode. Compared to the original it:
 
