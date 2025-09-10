@@ -6,6 +6,11 @@
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Identifier</key>
 	<string>com.apple.dt.unit.automatorAction</string>
+	<key>Image</key>
+    <dict>
+        <key>SystemSymbolName</key>
+        <string>gearshape.2</string>
+    </dict>
 	<key>Ancestors</key>
 	<array>
 		<string>com.apple.dt.unit.systemPlugInBase</string>
